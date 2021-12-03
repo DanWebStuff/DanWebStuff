@@ -1,5 +1,5 @@
 Hey there, I’m Dan I go by DanWebStuff.
-- 👀 I’m interested in UX/Web Design in which relises on coding in html and css.
+- 👀 I am a young and passionate web developer and UX designer looking to make a mark in the creative industry.
 - 📫 How to reach me is by contacting me via email or any of my social platforms.
 
 <!---
